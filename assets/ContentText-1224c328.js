@@ -1,1 +1,0 @@
-import{u as o,o as s,c,n as a}from"./index-22209fc4.js";const l=["innerHTML"],u={__name:"ContentText",props:["componentData","testStyle"],setup(t){o(n=>({"83b050cc":t.testStyle.textColor}));const e=t;return(n,r)=>(s(),c("div",{innerHTML:e.componentData.text,class:a(["content-text",{"question-count":e.componentData.text.includes("Вопрос")}])},null,10,l))}};export{u as default};
